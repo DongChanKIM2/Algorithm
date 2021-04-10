@@ -1,2 +1,3 @@
 # Algorithm
-algorithm
+algorithm problem solving
+
