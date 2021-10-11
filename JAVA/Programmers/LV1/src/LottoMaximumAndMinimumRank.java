@@ -15,7 +15,7 @@ public class LottoMaximumAndMinimumRank {
                 }
             }
         }
-        System.out.println(minimum, maximum);
+//        System.out.println(minimum, maximum);
         return answer;
     }
 
